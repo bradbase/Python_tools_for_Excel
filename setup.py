@@ -53,5 +53,5 @@ setuptools.setup(
         "License :: OSI Approved :: 3-Clause BSD",
         "Operating System :: OS Independent",
     ],
-    install_requires=[]
+    install_requires=['msmb_theme']
 )
