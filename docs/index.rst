@@ -22,6 +22,7 @@ I usually find there is enough value in collating information about the software
    software_integrating_calculation
    software_ms_addins
    blog_posts
+   software_non_excel_tools
 
 
 Indices and tables
